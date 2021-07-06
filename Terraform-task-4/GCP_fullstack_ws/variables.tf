@@ -1,7 +1,7 @@
 // For GCP Instance
 variable "region"{
     type = string
-    default = "us-cental1"
+    default = "us-central1"
 }
 variable "machine_type"{
     type = string
